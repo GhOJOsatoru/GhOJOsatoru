@@ -1,6 +1,6 @@
-## Welcome
+## Welcome, I'am Ghxses
 
-![Views](https://komarev.com/ghpvc/?username=GhOJOsatoru&color=orange&style=for-the-badge)
+![Views](https://viewcounter.live/GhOJOsatoru?label=Profile%20Views&bg_color=7A95E8&text_color=FFFFFF&rounded=true)
 
 <!--
 **GhOJOsatoru/GhOJOsatoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
