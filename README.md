@@ -1,6 +1,6 @@
 ## Welcome, I'am Ghxses
 
-![Views](https://viewcounter.live/GhOJOsatorulabel=Profile%20Views&bg_color=7A95E8&text_color=FFFFFF&rounded=true)
+![Views](https://github-view-counter.vercel.app/api?username=GhOJOsatoru&style=rounded&color=ffffff&bgColor=7A95E8)
 
 <!--
 **GhOJOsatoru/GhOJOsatoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
