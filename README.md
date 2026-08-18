@@ -1,7 +1,5 @@
 ## Welcome, I'am Ghxses
 
-![Views](https://github-view-counter.vercel.app/api?username=GhOJOsatoru&style=rounded&color=ffffff&bgColor=7A95E8)
-![Stars](https://img.shields.io/github/stars/GhOJOsatoru?style=plastic&color=7A95E8&labelColor=333333&logo=github&logoColor=ffffff&label=Stars)
 ![GitHub Activity](https://streak-stats.demolab.com/?user=GhOJOsatoru&theme=transparent&border=7A95E8&stroke=7A95E8&ring=7A95E8&fire=7A95E8&currStreakLabel=7A95E8)
 
 <!--
